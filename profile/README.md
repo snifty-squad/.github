@@ -1,4 +1,4 @@
-![snifty banner](https://github.com/snifty-squad/.github/img/snifty-banner.png)
+![snifty banner](img/snifty-banner.png)
 Snifty (Solana NFT Toolkit), aims to provide generative NFT design and development tools to assist you in your next project. Join us in testing, giving feedback and showing off your projects!
 
 🌐 Website

@@ -1,9 +1,14 @@
-# Developer Quickstart
+![snifty banner]](/img/snifty-banner.png)
+Snifty (Solana NFT Toolkit), aims to provide generative NFT design and development tools to assist you in your next project. Join us in testing, giving feedback and showing off your projects!
 
-## GitHub Authentication
-1. Create a [GitHub PAT](https://github.com/settings/tokens) with the following permissions:
-    - **repo** - Full control of private repositories.
-    - **write:packages** - Upload packages to GitHub Package Registry.
-2. Create a `.env` file in the root of the repository with the following format.
-    `GITHUB_TOKEN=YOUR_PAT`
-3. `npm install` should work as expected. Beform install, NPM will will leverage the  `./npm:preinstall` script to read your `.env` and authenticate with GitHub.
+🌐 Website
+https://snifty.site 
+
+🐤 Twiter
+https://twitter.com/sniftysol
+
+💰 Wallet
+Buy us a coffee or drop a cool NFT to \`snifty.sol\`
+
+🛠 Developer
+Here to build? Snifty devs [go here]().

@@ -7,7 +7,7 @@ https://snifty.site
 
 ### 💬 Community
 
-Join the [Snifty Discord Server]("https://discord.gg/jmQTjymNwv").
+Join the [Snifty Discord Server](https://discord.gg/jmQTjymNwv).
 
 #### 🐤 Twiter
 

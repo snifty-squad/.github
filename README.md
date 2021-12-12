@@ -1,5 +1,4 @@
-# snifty-squad
-
+# Developer Quickstart
 
 ## GitHub Authentication
 1. Create a [GitHub PAT](https://github.com/settings/tokens) with the following permissions:

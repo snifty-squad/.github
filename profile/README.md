@@ -3,7 +3,11 @@ Snifty (Solana NFT Toolkit), aims to provide generative NFT design and developme
 
 #### 🌐 Website
 
-https://snifty.site 
+https://snifty.site
+
+### 💬 Community
+
+Join the [Snifty Discord Server]("https://discord.gg/jmQTjymNwv").
 
 #### 🐤 Twiter
 

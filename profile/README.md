@@ -11,7 +11,7 @@ https://twitter.com/sniftysol
 
 #### 💰 Wallet
 
-Buy us a coffee or drop a cool NFT to `snifty.sol`
+Buy us a coffee or drop a cool NFT to `snifty.sol`.
 
 #### 🛠 Developer
 

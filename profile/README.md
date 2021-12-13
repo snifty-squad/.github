@@ -19,4 +19,4 @@ Buy us a coffee or drop a cool NFT to `snifty.sol`.
 
 #### 🛠 Developer
 
-Are you a Snifty developer? Checkout the [Snifty Developer Quickstart]().
+Are you a Snifty developer? Checkout the [Snifty Developer Quickstart](https://github.com/snifty-squad/snifty-docs).
